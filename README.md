@@ -23,7 +23,7 @@ So I set out to make this, to atleast replace the ESP32 stuffed in a random cart
 
 And give some light, lmao, to the people suffering without a argb controller with argb stuff heh.
 
-##What does it have?
+## What does it have?
 It has 3 distinct LED control channels in one channel you can plug 3 ARGB 3 pin connectors to control your fans in sync, I went with 3 since max ur gonna use 360mm stuff unless you are someome insane(atp use the manufacturer daisy chain ones hah).
 The first two led channels can be connected to 3+3 rgb devices like fans and stuff, the last channel can only control and accept one argb and has only 1 connector since I intend it to be for addressable light strips!
 And most importantly it uses an ESP32C3 and I intend to use WLED firmware for now, in the future may fork it, but this means we have WIFI control, 
