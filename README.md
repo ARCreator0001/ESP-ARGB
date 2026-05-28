@@ -18,7 +18,9 @@ So I set up to make a good argb controller that can live behind the motherboard 
 This also aims to solve the problem of using ur motherboard manufacturer's bloat they prepped up in like the win7 era that doesnt even run properly to control your ARGB bcs no other way to control!!
 
 So I set out to make this, to atleast replace the ESP32 stuffed in a random carton just there and my sketchy botched up soldering of wires that may start a fire lmao.
+
 <img width="709" height="945" alt="image" src="https://github.com/user-attachments/assets/bb323624-976e-4b0c-b053-9ffd59b68a7d" />
+
 And give some light, lmao, to the people suffering without a argb controller with argb stuff heh.
 
 ##What does it have?
