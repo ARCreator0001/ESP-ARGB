@@ -3,11 +3,11 @@
 <img width="1068" height="675" alt="image" src="https://github.com/user-attachments/assets/d5a9ef5c-5769-4dba-8647-415176f3e358" />
 <img width="997" height="706" alt="image" src="https://github.com/user-attachments/assets/23d83739-c66c-4f24-ba80-6aab412ca778" />
 
-##About it
+## About it
 It is a powerful small sized ARGB controller based on the ESP32 series microcontrollers and It allows for freedom of RGB lol, no more hassle with aftermarket controllers, while this integrates you PC RGB easily.
 It is easy to make and very useful.
 
-##Why?
+## Why?
 MANY, I am talking many really, there are so many motherboards out there even new ones that DO NOT INCLUDE an integrated ARGB controller too, this seems to be a trivial problem at first, duh its just RGB, but I only knew the pain after buying a new case for my new PC build out of a very decent buisness motherboard that I had revived, the ASUS Prime B365M-C, I had no way to control or even simply light up the RGB int he front fans.
 Imagine such a nice case with fans running with literally no RGB despite supporting it, its so bad to look at and its just a missed opportunity.
 Yes there exists those ARGB controllers out there but either they are made out of chinesium or they really suck at controlling and you have no freedom of colors and what you wanna pick and no animations despite having argb control, its lost potential!!!!.
@@ -36,13 +36,13 @@ https://kno.wled.ge/  :)
 
 Btw, you can also program and have a link with it with a USB2.0 header in ur motherboard :) so no need to pull it out to do anything in software! It even includes serial debugging!!
 
-##Main Hardware it uses
+## Main Hardware it uses
 - ESP32C3 Microcontroller - The brains of the whole thing! Small and tiny but packs a punch!!
 - A voltage regulator for the esp!!
 - Other passive components like multiple film capacitors and mainly many bulk electrolytic caps near the RGB outputs for smoooooooooth power delivery hehe.
 - Also, multiple 0Ohm linkages has been included in stuff like enabling serial debug, usb connection, connection to various light channels so you can disable the ones you don't use!
 
-##How to build it and use!
+## How to build it and use!
 Prerequisites: Have patience and a positive attitude!!!
 oh and btw, have the pcb and components and case pieces on hand!!
 
@@ -54,8 +54,8 @@ oh and btw, have the pcb and components and case pieces on hand!!
 6. go to install.wled.me and click install, sleect the serial port of the esp it will show one as usb select that and install!
 7. After install you are good to go and free to customise it all you want!!!!!
 
-#Resources!!
-##PCB layers
+# Resources!!
+## PCB layers
 It is a 2 layer stackup
 
 Top Layer:
@@ -70,22 +70,22 @@ Without copper area both layers:
 All layers including silkscreen:
 <img width="1109" height="614" alt="image" src="https://github.com/user-attachments/assets/807910e2-3635-4aaf-9e14-a37db0ea3698" />
 
-##PCB 2D image:
+## PCB 2D image:
 <img width="1169" height="750" alt="image" src="https://github.com/user-attachments/assets/d5ffa718-5a4f-487d-8dee-462f19942e67" />
 <img width="1183" height="743" alt="image" src="https://github.com/user-attachments/assets/acd5fe2b-a0f7-4557-9e56-9de3f36afd27" />
 
-##PCB 3D images:
+## PCB 3D images:
 <img width="1008" height="675" alt="image" src="https://github.com/user-attachments/assets/002622aa-a289-4bfb-a366-f3d77af0690e" />
 <img width="1118" height="603" alt="image" src="https://github.com/user-attachments/assets/b7781a19-bcb6-4d22-acf9-715f0dd2a839" />
 <img width="1260" height="744" alt="image" src="https://github.com/user-attachments/assets/71360856-725d-452b-9081-b933c2be6f44" />
 
-#Schematic
+# Schematic
 For building the electronics and for working on it generally you need the schematics.
 [SCH_ESP-ARGB_2026-05-28.pdf](https://github.com/user-attachments/files/28345847/SCH_ESP-ARGB_2026-05-28.pdf)
 <img width="1113" height="651" alt="image" src="https://github.com/user-attachments/assets/6d4c534f-0c70-42be-ad70-97ab71921672" />
 
 
-##Case
+## Case
 The case consists of two main 3D printed pieces, the base piece and the top piece which will also enclose the PCB.
 It is assembled by some clever techniques of using metal standoffs and bolts specifically to eliminate the need of complex fastening of parts while still giving good structural integrity!.
 
