@@ -69,6 +69,7 @@ Both layers with copper areas:
 <img width="1079" height="620" alt="image" src="https://github.com/user-attachments/assets/acf36196-1ee8-4b31-b273-02441e65f0c1" />
 Without copper area both layers:
 <img width="978" height="613" alt="image" src="https://github.com/user-attachments/assets/daf1dd11-43ef-4a2d-8d80-4019b7f558eb" />
+
 All layers including silkscreen:
 <img width="1109" height="614" alt="image" src="https://github.com/user-attachments/assets/807910e2-3635-4aaf-9e14-a37db0ea3698" />
 
