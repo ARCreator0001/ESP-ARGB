@@ -59,8 +59,8 @@ oh and btw, have the pcb and components and case pieces on hand!!
 3. Power it up. If the magic smoke hasn't come out, your all good for now!!
 4. Use a long bit dull pin or stick and press the reset button through the hole in the case and also connect the IO9 pin of the serial debug header to ground with the help of dupont jumpers while pressign the reset button and release the reset button and leave the IO9 pin connected to grounbd, it sends the esp into download mode!
 5. If you have speakers or a headphone connected should hear a device connecting!
-6. go to install.wled.me and click install, sleect the serial port of the esp it will show one as usb select that and install!
-7. After install you are good to go and free to customise it all you want!!!!!
+6. You can flash the firmware bin file in firmware folder using a tool (think esptool does it) or (recommended)go to https://install.wled.me and click install, select the serial port of the esp it will show one as usb select that and install! 
+8. After install you are good to go and free to customise it all you want!!!!!
 
 # Resources!!
 ## PCB layers
