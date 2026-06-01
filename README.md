@@ -89,7 +89,7 @@ All layers including silkscreen:
 
 # Schematic
 For building the electronics and for working on it generally you need the schematics.
-[SCH_ESP-ARGB_2026-05-28.pdf](https://github.com/user-attachments/files/28345847/SCH_ESP-ARGB_2026-05-28.pdf)
+PDF is in ECAD folder
 <img width="1113" height="651" alt="image" src="https://github.com/user-attachments/assets/6d4c534f-0c70-42be-ad70-97ab71921672" />
 
 
