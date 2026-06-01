@@ -3,6 +3,9 @@
 <img width="1145" height="757" alt="image" src="https://github.com/user-attachments/assets/7cc36066-78ee-462b-a304-b090fe7a9845" />
 <img width="1044" height="607" alt="image" src="https://github.com/user-attachments/assets/a7e61ba7-49b7-48f4-a247-7333414dcbb8" />
 
+##Hack Club Fallout Zine:
+<img width="2114" height="3000" alt="ESP-ARGB Zine" src="https://github.com/user-attachments/assets/b3e0d175-1278-4bd6-92cb-ac244fd8a64e" />
+
 
 ## About it
 It is a powerful small sized ARGB controller based on the ESP32 series microcontrollers and It allows for freedom of RGB lol, no more hassle with aftermarket controllers, while this integrates you PC RGB easily.
