@@ -4,7 +4,8 @@
 <img width="1044" height="607" alt="image" src="https://github.com/user-attachments/assets/a7e61ba7-49b7-48f4-a247-7333414dcbb8" />
 
 ##Hack Club Fallout Zine:
-<img width="2114" height="3000" alt="ESP-ARGB Zine" src="https://github.com/user-attachments/assets/b3e0d175-1278-4bd6-92cb-ac244fd8a64e" />
+[ESP-ARGB Zine.pdf](https://github.com/user-attachments/files/28469944/ESP-ARGB.Zine.pdf)
+
 
 
 ## About it
