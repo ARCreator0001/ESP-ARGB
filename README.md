@@ -1,7 +1,8 @@
 # ESP-ARGB
 
-<img width="1068" height="675" alt="image" src="https://github.com/user-attachments/assets/d5a9ef5c-5769-4dba-8647-415176f3e358" />
-<img width="997" height="706" alt="image" src="https://github.com/user-attachments/assets/23d83739-c66c-4f24-ba80-6aab412ca778" />
+<img width="1145" height="757" alt="image" src="https://github.com/user-attachments/assets/7cc36066-78ee-462b-a304-b090fe7a9845" />
+<img width="1044" height="607" alt="image" src="https://github.com/user-attachments/assets/a7e61ba7-49b7-48f4-a247-7333414dcbb8" />
+
 
 ## About it
 It is a powerful small sized ARGB controller based on the ESP32 series microcontrollers and It allows for freedom of RGB lol, no more hassle with aftermarket controllers, while this integrates you PC RGB easily.
