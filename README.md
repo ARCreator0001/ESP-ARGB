@@ -50,17 +50,31 @@ Btw, you can also program and have a link with it with a USB2.0 header in ur mot
 - Other passive components like multiple film capacitors and mainly many bulk electrolytic caps near the RGB outputs for smoooooooooth power delivery hehe.
 - Also, multiple 0Ohm linkages has been included in stuff like enabling serial debug, usb connection, connection to various light channels so you can disable the ones you don't use!
 
-# How to build it and firmware flashing!
+# How to build it 
 Prerequisites: Have patience and a positive attitude!!!
 oh and btw, have the pcb and components and case pieces on hand!!
 
 1. Build the electronics! be patient and solder all the components to the pcb by seeing the schematic for the values of components!! Then assemble the case referencing the assembly on onshape!
 2. Put it in your pc and connect it up! Connect the usb header to your usb 2.0 header on your motherboard
 3. Power it up. If the magic smoke hasn't come out, your all good for now!!
-4. Use a long bit dull pin or stick and press the reset button through the hole in the case and also connect the IO9 pin of the serial debug header to ground with the help of dupont jumpers while pressign the reset button and release the reset button and leave the IO9 pin connected to grounbd, it sends the esp into download mode!
-5. If you have speakers or a headphone connected should hear a device connecting!
-6. You can flash the firmware bin file in firmware folder using a tool (think esptool does it) or (recommended)go to https://install.wled.me and click install, select the serial port of the esp it will show one as usb select that and install! 
-8. After install you are good to go and free to customise it all you want!!!!!
+4. Use a long bit dull pin or stick and press the reset button through the hole in the case and also connect the IO9 pin of the serial debug header to ground with the help of dupont jumpers while pressign the reset button and release the reset button and leave the IO9 pin connected to ground, it sends the esp into download mode!
+5. If you have speakers or a headphone connected should hear a device connecting! and you are in firmware flashing mode!
+## Firmware 
+We will be using a custom compiled version of WLED so that it is modded a bit so it is easy to get started!
+### Flashing it
+1) Download our compiled version of firmware from Firmware folder of our repo
+2) Power on the board and connect the usb2.0 connection to your pc if not done and 
+3) Go to [web.esphome.io](https://web.esphome.io/) and click Connect. A popup will come from the browser that will ask for serial port, select the one that has "(USB)" in its text and click connect.
+4) Then click install and upload the firmware .bin file you ahve downloaded and let it upload. 
+### Initial Setup
+1. Power on the controller if not done alr
+2. In your Phone/Laptop/device with WiFi connection ability search network and a new wfi network named "ESP ARGB-AP" will show up. Connect to it. Enter the password "espiscool" and connect.
+3. Open a browser and go to this ip http://4.3.2.1
+4. You can either straight away control your fans or if you want it to connect to your home wifi follow next steps.
+5. Go to Config and select WiFi Setup
+6. Enter your local wifi net credentials and save it
+7. Find the new IP address to control your fans wirelessly. Use a tool like Advanced IP Scanner etc for the first time. Later you can always in settings, wifi setup configure a static local IP addresss!
+8. enjoy :) 
 
 # Resources!!
 ## PCB layers
