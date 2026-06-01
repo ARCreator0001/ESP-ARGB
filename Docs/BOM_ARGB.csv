@@ -1,0 +1,24 @@
+Component Name,Component model,Qty required to build,Qty purchased(need+spare),Source,Price(webiste price),Real Price(GST+duty),Shipping,Links
+PCB 2 Layer Black,N/A,1,5(moq),Robu.in,₹900 / $9.46,₹949 / $9.98,₹49 / $0.52 ,N/A
+10uF 16V SMT cap Electrolytic,UWT1C100MCL1GB,7,8,digikey.in,₹238.56,₹250.49 / $2.63,-,https://www.digikey.in/en/products/detail/nichicon/UWT1C100MCL1GB/589914
+100nF MLCC SMT 0805,CL21B104KAFNNNE,2,9(moq),Robu.in,₹10.44 / $0.11,₹10.44 / $0.11,Common(ordered same time),https://robu.in/product/cl21b104kafnnne-samsang-25v-100nf-x7r-%c2%b110-0805-multilayer-ceramic-capacitors-mlcc-smd-smt-rohs/
+DSS34 Diode,DSS34,1,3,Robu.in,₹14.37 / $0.15,₹14.37 / $0.15,Common,https://robu.in/product/dss34-slkor-sod-123fl-schottky-diodes-rohs/
+Red LED 0805,generic,1,12(moq),robu.in,₹10.08 / $0.11,₹10.08 / $0.11,Common,https://robu.in/product/0805-surface-mount-led-red-50-pcs/
+ 10kΩ 0805 Chip Resistor,,4,6(moq),robu.in,₹10.2 / $0.11,₹10.2 / $0.11,Common,https://robu.in/product/qr0805f10k0p05z-ever-ohms-tech-125mw-thick-film-resistor-150v-%c2%b1100ppm-%e2%84%83-%c2%b11-10k%cf%89-0805-chip-resistor-surface-mount-rohs/
+0Ohm 0805,CR0805-J/-000ELF-BOURNS-Zero Ohm Resistor,7,7(moq),robu.in,₹10.92 / $0.11,₹10.92 / $0.11,Common,https://robu.in/product/cr0805-j-000elf-bourns-zero-ohm-resistor-jumper-0805-2012-metric-thick-film-125-mw-2-a-surface-mount-device/
+TS-1088 switch,TS-1088-AR02016-XUNPU-50mA 4mm,1,3(moq),robu.in,₹13.68 / $0.14,₹13.68 / $0.14,Common,https://robu.in/product/1-month-warranty-470/
+AMS-1117-3.3,AMS1117-3.3V-HXY MOSFET-1A Fixed 3.3V 12V SOT-223,1,2(moq),robu.in,₹18 / $0.19,₹18 / $0.19,Common,https://robu.in/product/1-month-warranty-385/
+74AHCT125D,"74AHCT125D,118",1,1,digikey.in,₹35.41 / $0.37,₹47.49 / $0.50,-,https://www.digikey.in/en/products/detail/nexperia-usa-inc/74AHCT125D-118/1229604
+4pin male header right angle,861400041LO1705LF,10,10,digikey.in,₹84.8 / $0.89,₹116.62 / $1.23,-,https://www.digikey.in/en/products/detail/amphenol-cs-fci/861400041LO1705LF/4414079
+ESP32C3 WROOM,ESP32-C3-WROOM-02-H4,1,1,digikey.in,₹337.33 / $3.55,₹509.9 / $5.37,-,https://www.digikey.in/en/products/detail/espressif-systems/ESP32-C3-WROOM-02-H4/14553033
+CONN HEADER R/A 4POS 3.96MM,B4PS-VH,1,1,digikey.in,₹27.02 / $0.28,₹37.16 / $0.39,-,https://www.digikey.in/en/products/detail/jst-sales-america-inc/B4PS-VH/926557
+CONN RCPT HSG 4POS 3.96MM,VHR-4N,1,1,digikey.in,₹11.18 /  $0.12,₹16.14 / $0.17,-,https://www.digikey.in/en/products/detail/jst-sales-america-inc/VHR-4N/608626
+CONN SOCKET 18-22AWG CRIMP TIN,SVH-21T-1.1,4,6(crimp),digikey.in,₹55.92 / $0.59,₹76.91 / $0.81,-,https://www.digikey.in/en/products/detail/jst-sales-america-inc/SVH-21T-1-1/527366
+CONN PLUG HSG 4POS 5.03MM(Molex),3092042,1,2(crimp),digikey.in,₹54.04 / $0.57,₹78 / $0.82,-,https://www.digikey.in/en/products/detail/molex/0003092042/61300
+CONN PIN 14-20AWG TIN CRIMP,2092101,4,6(crimp),digikey.in,₹55.92 / $0.59,₹76.91 / $0.81,-,https://www.digikey.in/en/products/detail/molex/0002092101/467795
+16AWG Silicone Braided Wire-Red,16AWG Silicone Braided Wire-Red,~2Meter,2Meter,robu.in,₹108 / $1.14,₹108 / $1.14,Common,https://robu.in/product/16awg-silicone-braided-wire-red/
+16AWG Silicone Braided wire-Black,16AWG Silicone Braided wire-Black,~2Meter,2Meter,robu.in,₹108 / $1.14,₹108 / $1.14,Common,https://robu.in/product/16awg-silicone-braided-wire-black/
+M2 screws,"M2 X 6mm Hex (Allen) Button Head SS 304 Screw (Dia. 2mm, Length 6mm)",6,6,onlyscrews.in,₹28.8 / $0.3,₹33.98 / $0.36,₹60 / $0.63,https://onlyscrews.in/products/m2-x-6mm-hex-allen-button-head-ss-304-screw-dia-2mm-length-6mm
+M2 threaded standoff,M2 X 6mm Female to Female Brass with Nickel plating Hex Threaded Standoff Spacer,3,3,onlyscrews.in,₹12 / $0.13,₹14.16 / $0.15,ordered at same time so shared with above,https://onlyscrews.in/products/m2-x-6mm-female-to-female-brass-with-nickel-plating-hex-threaded-standoff-spacer?variant=50830620361017
+Subtotal,,,,,,₹2510.45 / $26.42,₹109 / $1.15,
+Grand Total,,,,,,,₹2619.45 / $27.57,
