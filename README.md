@@ -50,7 +50,7 @@ Btw, you can also program and have a link with it with a USB2.0 header in ur mot
 - Other passive components like multiple film capacitors and mainly many bulk electrolytic caps near the RGB outputs for smoooooooooth power delivery hehe.
 - Also, multiple 0Ohm linkages has been included in stuff like enabling serial debug, usb connection, connection to various light channels so you can disable the ones you don't use!
 
-# How to build it and use!
+# How to build it and firmware flashing!
 Prerequisites: Have patience and a positive attitude!!!
 oh and btw, have the pcb and components and case pieces on hand!!
 
